@@ -1,6 +1,6 @@
 {
-  "name": "user-registration",
-  "private": true,
+  "name": "@ssonyan/user-registration",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
